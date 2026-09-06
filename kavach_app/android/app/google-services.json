@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520442395201",
+    "project_id": "heatguard-app",
+    "storage_bucket": "heatguard-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520442395201:android:ce022767df344af32b64c0",
+        "android_client_info": {
+          "package_name": "com.example.kavach_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnblnoLJ4NQt0_InpQqBywacGB4F-yx9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
